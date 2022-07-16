@@ -8,4 +8,4 @@ My name is Filip Dimitrov, im a 14 year old student who enjoys programming. My p
 <br/>
 
 ## Projects I am currently (or atleast should be) working on: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipDimitrov10&repo=Lotto-gen&theme=prussian&hide_border=true)](https://github.com/FilipDimitrov10/Lotto-gen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipDimitrov10&repo=Stilyze&theme=prussian&hide_border=true)](https://github.com/FilipDimitrov10/Lotto-gen)
